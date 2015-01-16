@@ -1,0 +1,114 @@
+.jumbotron {
+  background-color: #D9853B;
+  padding-top: 2px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+}
+
+.jumbotron h1 {
+  color: #ECECEA;
+  font-family: 'Lobster', Georgia, Times, serif;
+  font-size: 100px;
+  line-height: 50px;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #ECECEA;
+  padding-left: 50px;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 5px;
+}
+
+.profile {
+  background-color: #558C89;
+  padding-top: 1px;
+  padding-right:100px;
+  padding-bottom: 1px;
+  padding-left: 100px;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 10px;
+}
+
+.profile h3 {
+  font-size: 25px;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 40px;
+}
+
+.jobs h2 {
+  font-family: 'Lobster', Georgia, Times, serif;
+  font-size: 50px;
+  line-height: 50px;
+  color: #D9853B;
+}
+
+
+.jobs {
+  background-color: #ECECEA;
+  font-family: 'Shift', sans-serif;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 40x;
+}
+
+.jobs h3 {
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 40x;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-bottom: 1px;
+  padding-left: 50px;
+}
+
+.jobs h4 {
+  line-height: 20%;
+  padding-top: 1px;
+  padding-right: 50px;
+  padding-bottom: 1px;
+  padding-left: 50px;
+}
+
+.jobs ul {
+  padding-top: 1px;
+  padding-right:100px;
+  padding-bottom: 1px;
+  padding-left: 100px;
+}
+
+.jobs a {
+  color: #00b0ff;
+}
+
+.education h2 {
+    font-family: 'Lobster', Georgia, Times, serif;
+  font-size: 50px;
+  line-height: 50px;
+  color: #ECECEA;
+}
+
+.education {
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  background-color: #74AFAD;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  line-height: 40x;
+}
+
+.education h3 {
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.education h4 {
+  line-height: 20%;
+  padding-right: 50px;
+  padding-left: 50px;
+}
